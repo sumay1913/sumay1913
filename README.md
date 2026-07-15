@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sumay1913.sumay1913" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Mayank+Rajput;Full+Stack+Developer;Java+%7C+MERN+Stack;B.Tech+CSE+at+GL+Bajaj;Building+Modern+Web+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+There!+I'm+Mayank+Rajput;Full+Stack+Developer;Java+%7C+MERN+Stack;B.Tech+CSE+at+GL+Bajaj;Building+Modern+Web+Applications" alt="Typing SVG" />
 </h1>
 
 ---
