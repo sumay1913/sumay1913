@@ -50,6 +50,23 @@
 - 📊 Admin Analytics
 
 ---
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumay1913&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumay1913&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=sumay1913&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
 
 # 📚 Education
 
