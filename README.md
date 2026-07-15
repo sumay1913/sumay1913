@@ -75,3 +75,10 @@
 | B.Tech CSE | GL Bajaj Institute | 2023-2027 |
 | Class XII | Vidhyanjali Academy | 2022 |
 | Class X | Manas Sthali Public School | 2020 |
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sumay1913/sumay1913/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
